@@ -1,0 +1,62 @@
+[
+    {
+        "id": "plato",
+        "urls": [
+            "https://plato.stanford.edu/entries/plato/"
+        ]
+    },
+    {
+        "id": "aristotle",
+        "urls": [
+            "https://plato.stanford.edu/entries/aristotle/"
+        ]
+    },
+    {
+        "id": "socrates",
+        "urls": [
+            "https://plato.stanford.edu/entries/socrates/"
+        ]
+    },
+    {
+        "id": "descartes",
+        "urls": [
+            "https://plato.stanford.edu/entries/descartes/"
+        ]
+    },
+    {
+        "id": "leibniz",
+        "urls": [
+            "https://plato.stanford.edu/entries/leibniz/"
+        ]
+    },
+    {
+        "id": "ada_lovelace",
+        "urls": []
+    },
+    {
+        "id": "turing",
+        "urls": [
+            "https://plato.stanford.edu/entries/turing/"
+        ]
+    },
+    {
+        "id": "searle",
+        "urls": []
+    },
+    {
+        "id": "chomsky",
+        "urls": []
+    },
+    {
+        "id": "dennett",
+        "urls": []
+    },
+    {
+        "id": "rosso",
+        "urls": ["https://reactormag.com/porco-rosso-hayao-miyazaki-classic-30th-anniversary/","https://www.polygon.com/animation-cartoons/2020/5/29/21275119/porco-rosso-studio-ghibli-hayao-miyazaki-ending","https://www.fantasy-animation.org/current-posts/porco-rosso-how-hayao-miyazaki-evokes-emotional-closeness-through-sensory-stimuli"]
+    },
+    {
+        "id": "kobain",
+        "urls": ["https://overeasyalchemy.com/word/abnormal-psychology-kurt-cobain","https://overland.org.au/2021/04/kurt-cobain-martyr-of-authenticity/","https://www.nme.com/photos/nirvana-the-secret-story-of-every-album-track-explained-1418077"]
+    }
+]
